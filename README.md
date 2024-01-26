@@ -54,10 +54,6 @@ Github: https://github.com/lucabruzzone
 - ⚡ Fun fact: I have no issues with schedules, and I currently work night shifts. I'm accustomed to staying productive and focused even during unconventional hours!   
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
