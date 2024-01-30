@@ -12,17 +12,19 @@
 
 
 ### Glad to see you here!  
-I am a fullstack developer trained at the Henry Full Stack Developer bootcamp, where I gained a strong knowledge and mastery of technologies such as React, NodeJS, SQL, among others.
+I am a fullstack developer trained at the Henry Full Stack Developer bootcamp, where I gained a strong knowledge and mastery of technologies such as React, NodeJS, SQL, among others 💻.
 
-As a developer, my commitment is to transform ideas into impactful digital realities. My experience in development allows me to tackle significant challenges in both frontend and backend areas, achieving the design and development of efficient web solutions and exceptional user experiences. Passionate about analytical and effective work, I always instill proactivity within my team.
+As a developer, my commitment is to transform ideas 💡 into impactful digital realities. My experience in development allows me to tackle significant challenges in both frontend and backend areas, achieving the design and development of efficient web solutions 🛠 and exceptional user experiences. Passionate about analytical and effective work 🧠, I always spread proactivity throughout my team 🤝.
 
 If you are seeking a developer with this profile, feel free to reach out. You can contact me through the following channels:
 
-Email: luca.bruzzone95@gmail.com
+📩: luca.bruzzone95@gmail.com
 <br/>
-Phone: +56 9 90154533
+📞: +56 9 90154533
 <br/>
-Github: https://github.com/lucabruzzone  
+Github: https://github.com/lucabruzzone
+<br/>
+Linkedin: https://www.linkedin.com/in/bruzzone-luca
   
 
 <br/>  
