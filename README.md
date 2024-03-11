@@ -16,7 +16,7 @@ I am a fullstack developer trained at the Henry Full Stack Developer bootcamp, w
 
 As a developer, my commitment is to transform ideas 💡 into impactful digital realities. My experience in development allows me to tackle significant challenges in both frontend and backend areas, achieving the design and development of efficient web solutions 🛠 and exceptional user experiences. Passionate about analytical and effective work 🧠, I always spread proactivity throughout my team 🤝.
 
-If you are seeking a developer with this profile, feel free to reach out. You can contact me through the following channels:
+If you are looking for a developer with this profile, feel free to reach out. You can contact me through the following channels:
 
 📩: luca.bruzzone95@gmail.com
 <br/>
